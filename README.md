@@ -1,5 +1,5 @@
 # MealMuseApp
-![image](https://github.com/sagniho/MealMuseApp/assets/79772266/4e1ae4f2-ba0c-4f12-9e6d-778a5cf7e150)
+
 
 A Meal Planning and Recipe Discovery App. 
 
