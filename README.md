@@ -2,6 +2,7 @@
 
 
 A Meal Planning and Recipe Discovery App. 
+https://www.youtube.com/watch?v=uwI5XP48fa8&feature=youtu.be
 
 MealMuse - discover, plan, and savor delicious meals - all in one place.
 The app allows users to do the following:
